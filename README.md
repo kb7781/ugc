@@ -1,6 +1,37 @@
 # 🚀 UGC Platform
 
+<p align="center">
+  <img src="./client/public/hero.png" alt="UGC Platform Hero" width="100%" />
+</p>
+
 A modern, full-stack User-Generated Content (UGC) platform built for scale and performance. This application provides a seamless experience for uploading, managing, and interacting with media content, alongside secure authentication and AI-powered features.
+
+---
+
+## 🗺️ Creator Workflow & Community Roadmap
+
+Our application follows a seamless flow from creation to community showcase:
+
+1. **✨ Create & Generate:** Start in the **Create** studio. Upload your product and model images, enter a prompt, and let our GenAI instantly produce stunning, professional lifestyle imagery and short-form videos.
+2. **👀 Review Your Assets:** Inspect your optimized, social-ready generations in your personal dashboard.
+3. **🚀 Publish:** Found the perfect shot? Simply hit the **Publish** button on your generation.
+4. **🌍 Community Showcase:** Upon publishing, your newly generated images dynamically appear in the **Community** section! Here, creators can explore vibrant feeds, draw inspiration, and celebrate each other's viral-ready content.
+
+---
+
+## 🎨 UI Previews
+
+<p align="center">
+  <img src="./client/public/login.png" alt="Login & Authentication" width="48%" />
+  <img src="./client/public/create.png" alt="Create Image" width="48%" />
+</p>
+<p align="center">
+  <img src="./client/public/mygeneration.png" alt="My Generations Dashboard" width="48%" />
+  <img src="./client/public/community.png" alt="Community Feed" width="48%" />
+</p>
+<p align="center">
+  <img src="./client/public/pricing.png" alt="Pricing Options" width="80%" />
+</p>
 
 ---
 
